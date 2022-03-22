@@ -1,5 +1,1 @@
--  Hi, I'm Luis Mendez
-- I'm from Dominican Republic
-- I'm a FullStack Web Developer
-- I'm passionate about technology
-- You can Follow me on Linkedin as Luis Mendez and IG as @dluismendezdj
+- I'm a fullstack software developer
