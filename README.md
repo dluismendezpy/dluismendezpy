@@ -1,9 +1,20 @@
 ## Hi, I am Luis! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am a software developer having experience building amazing web applications and working alongside great teams. I build
-applications
-using [Django](https://www.djangoproject.com/), [Asp.Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [ReactJS](https://reactjs.org/)
-and other great frameworks and libraries. Also have experience in Mobile with [React Native](https://reactnative.dev/).
+I am a highly skilled software developer with extensive experience in programming languages such as Python, TypeScript,
+C#, and modern technologies such
+as [Django](https://www.djangoproject.com/), [Asp.Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [ReactJS](https://reactjs.org/),
+among others. Additionally, I also possess mobile development skills using [React Native](https://reactnative.dev/),
+which expands my field of work. This allows me to tackle complex projects and offer innovative solutions to technical
+challenges.
+
+I am capable of tackling complex projects and have a great ability to quickly adapt to new technologies and challenges,
+which allows me to stay up-to-date with the latest trends and best practices in the field of software development.
+Furthermore, I have solid soft skills, including the ability to work effectively under pressure, critical thinking,
+collaborate effectively in work teams, and communicate clearly and precisely.
+
+In summary, I am a highly skilled and experienced full-stack software developer with solid technical and soft skills,
+making me a valuable member of any development team. I am committed to applying my experience and skills to contribute
+to the success of the project and the company. I consider myself a valuable member of any development team.
 
 [![Linkedin Badge](https://img.shields.io/badge/-luismendezdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismendez-dev/)](https://www.linkedin.com/in/luismendez-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-info@luismendezdev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:info@luismendezdev.com)
@@ -43,6 +54,3 @@ and other great frameworks and libraries. Also have experience in Mobile with [R
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Linux](https://img.shields.io/badge/-Linux-1A1D20?style=flat-square&logo=Linux)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dluismendezpy&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dluismendezpy&hide=TeX&layout=compact)
