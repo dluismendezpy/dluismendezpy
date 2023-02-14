@@ -1,6 +1,6 @@
 ## Hi, I am Luis; Full Stack Software Developer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am a highly skilled software developer with extensive experience in programming languages such as Python, TypeScript,
+I am a software developer with extensive experience in programming languages such as Python, TypeScript,
 C#, and modern technologies such
 as [Django](https://www.djangoproject.com/), [Asp.Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [ReactJS](https://reactjs.org/),
 among others. Additionally, I also possess mobile development skills using [React Native](https://reactnative.dev/),
@@ -11,10 +11,6 @@ I am capable of tackling complex projects and have a great ability to quickly ad
 which allows me to stay up-to-date with the latest trends and best practices in the field of software development.
 Furthermore, I have solid soft skills, including the ability to work effectively under pressure, critical thinking,
 collaborate effectively in work teams, and communicate clearly and precisely.
-
-In summary, I am a highly skilled and experienced full-stack software developer with solid technical and soft skills,
-making me a valuable member of any development team. I am committed to applying my experience and skills to contribute
-to the success of the project and the company. I consider myself a valuable member of any development team.
 
 <div align="center">
 
