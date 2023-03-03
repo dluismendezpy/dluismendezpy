@@ -1,4 +1,4 @@
-## Hi, I am Luis; Full Stack Software Developer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<div align="center"><h1>Luis Mendez; Full Stack Software Developer</h1></div>
 
 I am a software developer with extensive experience in programming languages such as Python, TypeScript,
 C#, and modern technologies such
