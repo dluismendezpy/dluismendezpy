@@ -15,7 +15,7 @@ collaborate effectively in work teams, and communicate clearly and precisely.
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-luismendezdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismendez-dev/)](https://www.linkedin.com/in/luismendez-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-info@luismendezdev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:info@luismendezdev.com)
+[![Gmail Badge](https://img.shields.io/badge/-luis@luismendezdev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis@luismendezdev.com)](mailto:luis@luismendezdev.com)
 
 </div>
 
