@@ -1,4 +1,4 @@
-<div align="center"><h1>Luis Mendez; Full Stack Software Developer</h1></div>
+<div align="center"><h1>Luis Mendez; Software Engineer</h1></div>
 
 I am an experienced Software Engineer proficient in Python, TypeScript, and C#, as well as advanced technologies such as Django, Asp.Net Core, and ReactJS. With additional expertise in React Native for mobile development, I possess the skills to tackle complex projects and provide innovative solutions to technical challenges. I am adaptable to new technologies and adept at managing intricate projects, keeping abreast of the latest industry trends and best practices in software engineering. Furthermore, my exceptional interpersonal skills enable me to work effectively under pressure, think critically, collaborate seamlessly in teams, and communicate precisely and succinctly.
 
