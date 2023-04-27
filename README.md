@@ -25,11 +25,10 @@ I am an experienced Software Engineer proficient in Python, TypeScript, and C#, 
 ## ⚡ Technologies, frameworks and libraries
 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-black?style=flat-square&logo=Django)
-![Asp.Net Core](https://img.shields.io/badge/-Asp.Net%20Core-black?style=flat-square&logo=.NET)
+![Django Rest Framework](https://img.shields.io/badge/-DRF-black?style=flat-square&logo=Django)
+![Asp.Net Core](https://img.shields.io/badge/-.Net%20Core-black?style=flat-square&logo=.NET)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0F2434?style=flat-square&logo=postgresql)
