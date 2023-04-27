@@ -1,30 +1,13 @@
 <div align="center"><h1>Luis Mendez; Full Stack Software Developer</h1></div>
 
-I am a software developer with extensive experience in programming languages such as Python, TypeScript,
-C#, and modern technologies such
-as [Django](https://www.djangoproject.com/), [Asp.Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [ReactJS](https://reactjs.org/),
-among others. Additionally, I also possess mobile development skills using [React Native](https://reactnative.dev/),
-which expands my field of work. This allows me to tackle complex projects and offer innovative solutions to technical
-challenges.
-
-I am capable of tackling complex projects and have a great ability to quickly adapt to new technologies and challenges,
-which allows me to stay up-to-date with the latest trends and best practices in the field of software development.
-Furthermore, I have solid soft skills, including the ability to work effectively under pressure, critical thinking,
-collaborate effectively in work teams, and communicate clearly and precisely.
+I am an experienced Software Engineer proficient in Python, TypeScript, and C#, as well as advanced technologies such as Django, Asp.Net Core, and ReactJS. With additional expertise in React Native for mobile development, I possess the skills to tackle complex projects and provide innovative solutions to technical challenges. I am adaptable to new technologies and adept at managing intricate projects, keeping abreast of the latest industry trends and best practices in software engineering. Furthermore, my exceptional interpersonal skills enable me to work effectively under pressure, think critically, collaborate seamlessly in teams, and communicate precisely and succinctly.
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-luismendezdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismendez-dev/)](https://www.linkedin.com/in/luismendez-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-luismendez--dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismendez-dev/)](https://www.linkedin.com/in/luismendez-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-luis@luismendezdev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis@luismendezdev.com)](mailto:luis@luismendezdev.com)
 
 </div>
-
-## Overview
-
-- Experienced software developer with expertise in Python, TypeScript, C#, and Django, Asp.Net Core, ReactJS, and React
-  Native.
-- Capable of tackling complex projects and adapting to new technologies and challenges.
-- Strong technical and soft skills, including critical thinking, effective teamwork, and clear communication.
 
 ## ⚡ Programming Languages
 
