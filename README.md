@@ -1,11 +1,11 @@
 <div align="center"><h1>Luis Mendez; Software Engineer</h1></div>
 
-I am a seasoned Software Engineer with a strong command of Python, TypeScript, and C#, complemented by advanced proficiency in cutting-edge technologies like Django, Asp.Net Core, and ReactJS. My expertise extends to mobile development through React Native, equipping me with the capabilities to navigate intricate projects and deliver inventive solutions to complex technical issues. My adaptability to emerging technologies, coupled with a proven track record of efficiently managing multifaceted projects, keeps me at the forefront of the latest industry trends and software engineering best practices. Additionally, my exceptional interpersonal skills enable me to excel under pressure, engage in critical thinking, collaborate seamlessly within teams, and communicate with precision and brevity.
+I am a Software Engineer with extensive experience in Python, TypeScript, and C#, specializing in building scalable solutions using modern technologies like Django, ASP.NET Core, and ReactJS. I have led complex projects, including mobile development with React Native, delivering innovative solutions to challenging technical problems. My adaptability to new technologies and proven track record of managing multifaceted projects keep me aligned with industry best practices. Additionally, my ability to work under pressure, apply critical thinking, and collaborate effectively allows me to deliver precise results within multidisciplinary teams.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/luismendez--dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismendez-dev/)
-[![Gmail](https://img.shields.io/badge/luis@luismendezdev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis@luismendezdev.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/luismendez--dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismendez-dev/)
+[![Contact via Email](https://img.shields.io/badge/luis@luismendezdev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis@luismendezdev.com)
 </div>
 
 ## Programming Languages
