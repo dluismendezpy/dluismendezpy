@@ -11,7 +11,7 @@ I am a **Software Engineer** with extensive experience in **Python, TypeScript, 
   <a href="mailto:luis@luismendezdev.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an Email" />
   </a>
-  <a href="https://www.luismendezdev.com/Luis%20Mendez%20Resume.pdf" target="_blank" style="text-decoration: none;">
+  <a href="https://www.luismendezdev.com/luis-mendez-resume.pdf" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20My%20Resume-28A745?style=for-the-badge&logo=file-pdf&logoColor=white" alt="View My Resume" />
   </a>
 </div>
